@@ -1,4 +1,4 @@
-# pentesting
+.# pentesting
 
 wifi sec
 airmon-ng start wlan0
